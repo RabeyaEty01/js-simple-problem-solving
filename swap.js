@@ -10,7 +10,7 @@ second = temp;
 console.log(first,second);
 */
 
-//destructuring
+//destructing
 let first = 5;
 let second = 7;
 //console.log(first, second);
